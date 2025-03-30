@@ -13,6 +13,7 @@ cd build/libs
 java -jar psuc-1.1.jar
 ```
 # Requirements
+Was tested on Arch Linux
 ```
 OS: Linux
 Java: jdk21
