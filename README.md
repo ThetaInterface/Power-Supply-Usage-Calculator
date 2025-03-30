@@ -3,7 +3,7 @@ To build:
 ```
 git clone https://github.com/ThetaInterface/Power-Supply-Usage-Calculator.git
 cd Power-Supply-Usage-Calculator
-chomd +x gradlew
+chmod +x gradlew
 ./gradlew build
 ```
 # Execute
