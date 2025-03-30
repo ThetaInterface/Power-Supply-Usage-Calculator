@@ -17,4 +17,6 @@ Was tested on Arch Linux
 ```
 OS: Linux
 Java: jdk21
+
+Plug off charging device if laptop
 ```
